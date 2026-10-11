@@ -1,0 +1,682 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 24.1.0 d001Oct-11-2026 at 23:49:17 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ESP32-S3-DEMO';
+ POST_TIME='Dec 21 2025 21:43:25';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR_C0603_10UF/25V(20%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17731061@SCH_STD_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17731061@sch_std_lib.\capacitor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17731061@sch_std_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,260,780,270)',
+ SECTION='';
+
+PART_NAME
+ C10 'CAPACITOR_C0603_10UF/25V(20%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17691339@SCH_STD_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17691339@sch_std_lib.\capacitor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17691339@sch_std_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1740,930)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1740,930,1760,940)',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR_C0603_10UF/25V(20%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17687948@SCH_STD_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17687948@sch_std_lib.\capacitor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17687948@sch_std_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,1060)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(190,1060,210,1070)',
+ SECTION='';
+
+PART_NAME
+ C12 'CAPACITOR_C0402_1UF/16V(10%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17688487@SCH_STD_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17688487@sch_std_lib.\capacitor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17688487@sch_std_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,1220)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,1220,320,1230)',
+ SECTION='';
+
+PART_NAME
+ C13 'CAPACITOR_C0402_0.1UF/50V(10%)(NC)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17693119@SCH_STD_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17693119@sch_std_lib.\capacitor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17693119@sch_std_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1480,1230)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1480,1230,1490,1250)',
+ SECTION='';
+
+PART_NAME
+ C14 'CAPACITOR_C0402_0.1UF/50V(10%)(NC)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17693698@SCH_STD_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17693698@sch_std_lib.\capacitor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17693698@sch_std_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1780,1230)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1780,1230,1790,1250)',
+ SECTION='';
+
+PART_NAME
+ C15 'CAPACITOR_C0603_10UF/25V(20%)(NC)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17749162@SCH_STD_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17749162@sch_std_lib.\capacitor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17749162@sch_std_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,630)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(470,630,490,640)',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR_C0402_0.1UF/50V(10%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17731075@SCH_STD_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17731075@sch_std_lib.\capacitor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17731075@sch_std_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(800,260,820,270)',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR_C0603_10UF/25V(20%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17749022@SCH_STD_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17749022@sch_std_lib.\capacitor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17749022@sch_std_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,280)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(470,280,490,290)',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR_C0402_1UF/16V(10%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17702228@SCH_STD_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17702228@sch_std_lib.\capacitor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17702228@sch_std_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(940,690)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(940,690,960,700)',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR_C0603_10UF/25V(20%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17691361@SCH_STD_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17691361@sch_std_lib.\capacitor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17691361@sch_std_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1410,930)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1410,930,1430,940)',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR_C0402_0.1UF/50V(10%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17691369@SCH_STD_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17691369@sch_std_lib.\capacitor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17691369@sch_std_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1450,930)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1450,930,1470,940)',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR_C0402_0.1UF/50V(10%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17691331@SCH_STD_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17691331@sch_std_lib.\capacitor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17691331@sch_std_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1700,930)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1700,930,1720,940)',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_S_SOD123_1N5819HW-7-F':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17748923@SCH_STD_LIB.DIODE_S.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17748923@sch_std_lib.\diode_s.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17748923@sch_std_lib.\diode_s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,190)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(380,190,410,210)',
+ SECTION='';
+
+PART_NAME
+ D10 'DIODE_BI_DIR_SOD523_LESD5D5.0CT1G':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17749115@SCH_STD_LIB.DIODE_BI_DIR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17749115@sch_std_lib.\diode_bi_dir.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17749115@sch_std_lib.\diode_bi_dir.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,620)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(380,620,400,660)',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_BI_DIR_SOD523_LESD5D5.0CT1G':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17748940@SCH_STD_LIB.DIODE_BI_DIR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17748940@sch_std_lib.\diode_bi_dir.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17748940@sch_std_lib.\diode_bi_dir.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,270)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(320,270,340,310)',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE_BI_DIR_SOD523_LESD5D5.0CT1G':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17748961@SCH_STD_LIB.DIODE_BI_DIR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17748961@sch_std_lib.\diode_bi_dir.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17748961@sch_std_lib.\diode_bi_dir.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,270)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(350,270,370,310)',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE_BI_DIR_SOD523_LESD5D5.0CT1G':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17748975@SCH_STD_LIB.DIODE_BI_DIR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17748975@sch_std_lib.\diode_bi_dir.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17748975@sch_std_lib.\diode_bi_dir.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,270)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(380,270,400,310)',
+ SECTION='';
+
+PART_NAME
+ D5 'DIODE_LIGHT_LED0603_RED LED':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17692186@SCH_STD_LIB.DIODE_LIGHT.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17692186@sch_std_lib.\diode_light.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17692186@sch_std_lib.\diode_light.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1830,930)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1830,930,1850,970)',
+ SECTION='';
+
+PART_NAME
+ D6 'SK68XXMINI-HS_LED3535B_SK68XXMINI-HS':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17690055@SCH_STD_LIB.SK68XXMINI-HS.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17690055@sch_std_lib.\sk68xxmini-hs.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17690055@sch_std_lib.\sk68xxmini-hs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,1250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(970,1250,1040,1310)',
+ SECTION='';
+
+PART_NAME
+ D7 'DIODE_S_SOD123_1N5819HW-7-F':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17749046@SCH_STD_LIB.DIODE_S.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17749046@sch_std_lib.\diode_s.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17749046@sch_std_lib.\diode_s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,540)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(380,540,410,560)',
+ SECTION='';
+
+PART_NAME
+ D8 'DIODE_BI_DIR_SOD523_LESD5D5.0CT1G':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17749083@SCH_STD_LIB.DIODE_BI_DIR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17749083@sch_std_lib.\diode_bi_dir.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17749083@sch_std_lib.\diode_bi_dir.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,620)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(320,620,340,660)',
+ SECTION='';
+
+PART_NAME
+ D9 'DIODE_BI_DIR_SOD523_LESD5D5.0CT1G':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17749101@SCH_STD_LIB.DIODE_BI_DIR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17749101@sch_std_lib.\diode_bi_dir.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17749101@sch_std_lib.\diode_bi_dir.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,620)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(350,620,370,660)',
+ SECTION='';
+
+PART_NAME
+ J1 'CON22X1_CON22X1_2P54_OBLATE_CON22X1':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17744946@SCH_STD_LIB_20210311A.CON22X1.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17744946@sch_std_lib_20210311a.\con22x1.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17744946@sch_std_lib_20210311a.\con22x1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1560,170)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1560,170,1590,400)',
+ SECTION='';
+
+PART_NAME
+ J2 'MICROUSB_USB_5P_MICRO_F_MICRO USB':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17748908@SCH_STD_LIB.MICROUSB.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17748908@sch_std_lib.\microusb.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17748908@sch_std_lib.\microusb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,190)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(200,190,260,250)',
+ SECTION='';
+
+PART_NAME
+ J3 'CON22X1_CON22X1_2P54_OBLATE_CON22X1':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17745211@SCH_STD_LIB_20210311A.CON22X1.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17745211@sch_std_lib_20210311a.\con22x1.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17745211@sch_std_lib_20210311a.\con22x1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1560,480)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1560,480,1590,710)',
+ SECTION='';
+
+PART_NAME
+ J4 'MICROUSB_USB_5P_MICRO_F_MICRO USB':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17749060@SCH_STD_LIB.MICROUSB.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17749060@sch_std_lib.\microusb.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17749060@sch_std_lib.\microusb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,540)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(200,540,260,600)',
+ SECTION='';
+
+PART_NAME
+ Q1 'NPN_SOT23-3_L8050QLT1G':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17689782@SCH_STD_LIB.NPN.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17689782@sch_std_lib.\npn.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17689782@sch_std_lib.\npn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,880)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(970,880,990,900)',
+ SECTION='';
+
+PART_NAME
+ Q2 'NPN_SOT23-3_L8050QLT1G':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17689806@SCH_STD_LIB.NPN.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17689806@sch_std_lib.\npn.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17689806@sch_std_lib.\npn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,970)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(970,970,990,990)',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_R0402_10K(1%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17689835@SCH_STD_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17689835@sch_std_lib.\resistor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17689835@sch_std_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,880)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(870,880,900,900)',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_R0402_5.1K(1%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17692144@SCH_STD_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17692144@sch_std_lib.\resistor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17692144@sch_std_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1780,890)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1780,890,1810,910)',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_R0402_10K(1%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17689848@SCH_STD_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17689848@sch_std_lib.\resistor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17689848@sch_std_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,970)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(870,970,900,990)',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_R0402_0(1%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17689954@SCH_STD_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17689954@sch_std_lib.\resistor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17689954@sch_std_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1060,1000)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1060,1000,1090,1020)',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR_R0402_10K(1%)(NC)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17688655@SCH_STD_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17688655@sch_std_lib.\resistor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17688655@sch_std_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,1140)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(470,1140,500,1160)',
+ SECTION='';
+
+PART_NAME
+ R16 'RESISTOR_R0402_1K(1%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17688597@SCH_STD_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17688597@sch_std_lib.\resistor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17688597@sch_std_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,1160)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(470,1160,500,1180)',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR_R0402_0(1%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17690079@SCH_STD_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17690079@sch_std_lib.\resistor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17690079@sch_std_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,1200)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(960,1200,990,1220)',
+ SECTION='';
+
+PART_NAME
+ R18 'RESISTOR_R0402_47.5K(1%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17688262@SCH_STD_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17688262@sch_std_lib.\resistor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17688262@sch_std_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,1210)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(240,1210,260,1240)',
+ SECTION='';
+
+PART_NAME
+ R19 'RESISTOR_R0402_22.1K(1%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17708481@SCH_STD_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17708481@sch_std_lib.\resistor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17708481@sch_std_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,1160)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,1160,200,1180)',
+ SECTION='';
+
+PART_NAME
+ R24 'RESISTOR_R0603_0(1%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17731268@SCH_STD_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17731268@sch_std_lib.\resistor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17731268@sch_std_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,230)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(840,230,870,250)',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_R0402_10K(1%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17702220@SCH_STD_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17702220@sch_std_lib.\resistor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17702220@sch_std_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(940,620)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(940,620,960,650)',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_R0402_0(1%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17688985@SCH_STD_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17688985@sch_std_lib.\resistor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17688985@sch_std_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,850)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(470,850,500,870)',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_R0402_0(1%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17689941@SCH_STD_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17689941@sch_std_lib.\resistor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17689941@sch_std_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1060,850)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1060,850,1090,870)',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_R0402_0(1%)':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17688998@SCH_STD_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17688998@sch_std_lib.\resistor.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17688998@sch_std_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,860)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(470,860,500,880)',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW_SP_4P_SW4-4P2X3P2X2P5-SMT_DISCRETE_NTC013-AT1J-A160T':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17692817@SCH_STD_LIB.SW_SP_4P.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17692817@sch_std_lib.\sw_sp_4p.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17692817@sch_std_lib.\sw_sp_4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1460,1160)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1460,1160,1510,1210)',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW_SP_4P_SW4-4P2X3P2X2P5-SMT_DISCRETE_NTC013-AT1J-A160T':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17693680@SCH_STD_LIB.SW_SP_4P.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17693680@sch_std_lib.\sw_sp_4p.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17693680@sch_std_lib.\sw_sp_4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1760,1160)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1760,1160,1810,1210)',
+ SECTION='';
+
+PART_NAME
+ U2 'LDO1117_SOT223_SGM2212-3.3XKC3G/TR':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17691321@SCH_STD_LIB.LDO1117.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17691321@sch_std_lib.\ldo1117.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17691321@sch_std_lib.\ldo1117.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1520,880)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1520,880,1620,930)',
+ SECTION='';
+
+PART_NAME
+ U3 'CP2102_QFN28_0P5_5_CP2102N-A02-GQFN28':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17687098@SCH_STD_LIB.CP2102.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17687098@sch_std_lib.\cp2102.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17687098@sch_std_lib.\cp2102.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,940)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(350,940,490,1080)',
+ SECTION='';
+
+PART_NAME
+ U4 'ESP32-S3-WROOM-1_ESP32S3WROOM1N16R8_ESP32-S3-WROOM-1':;
+
+SECTION_NUMBER 1
+ '@ESP32-S3-DEMO.SCHEMATIC(SCH_1):INS17753913@LIB_COMMON.ESP32-S3-WROOM-1.NORMAL(CHIPS)':
+ C_PATH='@\esp32-s3-demo\.schematic(sch_1):ins17753913@lib_common.\esp32-s3-wroom-1.normal\(chips)',
+ P_PATH='@\esp32-s3-demo\.schematic(sch_1):page2_ins17753913@lib_common.\esp32-s3-wroom-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1030,210)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1030,210,1180,400)',
+ SECTION='';
+
+END.

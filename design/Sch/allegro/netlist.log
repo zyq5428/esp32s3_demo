@@ -1,0 +1,12 @@
+{ Using PSTWRITER 24.1.0 d001Oct-11-2026 at 23:49:17 }
+
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... d:\git\esp32s3_demo\design\sch\allegro\pstchip.dat
+
+Loading... d:\git\esp32s3_demo\design\sch\allegro\pstchip.dat
+
+Loading... d:\git\esp32s3_demo\design\sch\allegro\pstxprt.dat
+
+Loading... d:\git\esp32s3_demo\design\sch\allegro\pstxnet.dat
+packaging the design view...

@@ -1,0 +1,87 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 S008 (4383181)  [12/21/2025]-[10/12/26]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "d:\git\eda_library\capture\lib_common.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\esp32-s3-demo.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\esp32-s3-demo.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    ("Allegro Netlist Output Board File" ".\allegro\esp32-s3-demo.brd"))
+  (Folder "Layout"
+    (File ".\allegro\esp32-s3-demo.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\esp32-s3-demo.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile "d:\git\esp32s3_demo\design\sch\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "d:\git\esp32s3_demo\design\sch\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "d:\git\esp32s3_demo\design\sch\allegro\eco.txt")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\esp32-s3-demo.dsn")
+      (Path "Design Resources" ".\esp32-s3-demo.dsn" "SCHEMATIC")
+      (Path "Design Resources" ".\esp32-s3-demo.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "PSpice Resources")
+      (Path "Logs")
+      (Select "Design Resources" ".\esp32-s3-demo.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 424 0 1143"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 963 28 1165")
+        (Scroll "265 -104")
+        (Zoom "59")
+        (Occurrence "/"))
+      (Path "D:\GIT\ESP32S3_DEMO\DESIGN\SCH\ESP32-S3-DEMO.DSN")
+      (Schematic "SCHEMATIC")
+      (Page "02_ESP32-S3-Core")))
+  (MPSSessionName "59427")
+  (PartMRUSelector
+    (ESP32-S3-WROOM-1
+      (FullPartName "ESP32-S3-WROOM-1.Normal")
+      (LibraryName "D:\GIT\EDA_LIBRARY\CAPTURE\LIB_COMMON.OLB")
+      (DeviceIndex "0"))))

@@ -1,0 +1,20 @@
+Reading Layer Conversion File 
+
+
+WARNING(SPMHA2-118): 'DESIGN_OUTLINE' and 'CUTOUT' are the preferred subclasses for defining an outline. Use these subclasses instead of the 'OUTLINE' subclass. [help]
+
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character * with X in *D1.
+NOTE: Replacing illegal character * with X in *D2.
+done.
+Layer conversion file: D:/Git/esp32s3_demo/design/assembly/pcb_layer_l.cnv
+DXF file: D:/Git/esp32s3_demo/design/assembly/pcb_layer.dxf
+BRD file: D:/Git/esp32s3_demo/design/Sch/allegro/#Taaaaag29464.tmp
+Update existing design?: NO
+Use default text?: NO
+DXF units: MILLIMETERS
+Design units: MILS
+Design precision: 4
+dxf2a complete.
